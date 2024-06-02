@@ -40,7 +40,7 @@
         android:layout_margin="1dp"
         android:text="Android Developer"
         android:textAlignment="center"
-        android:textSize="18dp"
+        android:textSize="20dp"
         android:textStyle="bold"
         android:textColor="@color/black" />
 
@@ -48,11 +48,11 @@
         android:id="@+id/textView5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="40dp"
+        android:layout_margin="37dp"
         android:text="I'm an IT undergrad at VSSUT, Burla, and an active member of the official coding club Enigma. Passionate about coding and eager to explore the realms of technology"
         android:textSize="18dp"
         android:textStyle="normal"
-        android:textColor="@color/myTextColor2"
+        android:textColor="@color/red"
         android:textAlignment="center" />
 
     <TextView

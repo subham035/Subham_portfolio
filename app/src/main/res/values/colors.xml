@@ -2,6 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#171170</color>
     <color name="myTextColor5">#2846B5</color>
     <color name="myTextColor">#0000FF</color>
     <color name="myTextColor3">#112A46</color>
