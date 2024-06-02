@@ -2,9 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="myTextColor5">#2846B5</color>
     <color name="myTextColor">#0000FF</color>
     <color name="myTextColor3">#112A46</color>
     <color name="myTextColor2">#FF0000</color>
-    <color name="start_color">#fc4a1a</color>
-    <color name="middle_color">#f7b733</color>
+    <color name="start_color">#A770EF</color>
+    <color name="middle_color">#CF8BF3</color>
+    <color name="end_color">#FDB99B</color>
 </resources>
