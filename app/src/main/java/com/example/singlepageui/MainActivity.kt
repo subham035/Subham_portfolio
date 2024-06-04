@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun openGithub(view: View) {
-        openUrl("https://subhammajhi@gmail.com/")
+        openUrl("https://github.com/subham035/")
     }
     fun openInstagram(view: View) {
         openUrl("https://www.instagram.com/")
@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         openUrl("https://www.linkedin.com/in/subham-satyasundar-majhi-ab6424303/")
     }
     fun openGmail(view: View) {
-        openUrl("https://github.com/subham035/")
+        openUrl("https://subhammajhi669@gmail.com/")
     }
 
 
